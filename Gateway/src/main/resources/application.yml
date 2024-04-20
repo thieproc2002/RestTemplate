@@ -1,0 +1,26 @@
+spring:
+  cloud:
+    gateway:
+      globalcors:
+        cors-configurations:
+          '[/**]':
+            allowedOrigins: "http://localhost:3000"
+            allowedHeaders: "*"
+            allowedMethods:
+              - GET
+              - POST
+              - PUT
+              - DELETE
+      routes:
+        - id: ProductService
+          uri: http://localhost:8002
+          predicates:
+            - Path=/product-service/**
+        - id: UserService
+          uri: http://localhost:8001
+          predicates:
+            - Path=/user-service/**
+        - id: Jwt
+          uri: http://localhost:8003
+          predicates:
+            - Path=/jwt/**

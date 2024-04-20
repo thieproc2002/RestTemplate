@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ffa3a16e-d619-4ed1-b17a-955fe2383bab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Discovery/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Discovery/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Discovery/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Discovery/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Discovery/src/main/java/vn/edu/iuh/fit/discovery/DiscoveryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Discovery/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Discovery/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gateway/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gateway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gateway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gateway/src/main/java/vn/edu/iuh/fit/gateway/GatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gateway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jwt/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jwt/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jwt/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jwt/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jwt/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jwt/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jwt/src/main/java/vn/edu/iuh/fit/jwt/JwtApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jwt/src/main/java/vn/edu/iuh/fit/jwt/config/JwtTokenProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jwt/src/main/java/vn/edu/iuh/fit/jwt/config/SecurityAuth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jwt/src/main/java/vn/edu/iuh/fit/jwt/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jwt/src/main/java/vn/edu/iuh/fit/jwt/dao/TokenDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jwt/src/main/java/vn/edu/iuh/fit/jwt/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jwt/src/main/java/vn/edu/iuh/fit/jwt/entity/Token.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jwt/src/main/java/vn/edu/iuh/fit/jwt/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jwt/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jwt/src/test/java/vn/edu/iuh/fit/jwt/JwtApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProductService/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserService/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/9bfe4b8482732e2d7762.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/d0d78ba14256ee08b747.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/d2985aef93183f466609.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/e04a8d4244b5e8ebb1a4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductService" beforeDir="false" afterPath="$PROJECT_DIR$/ProductService" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductService/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ProductService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductService/src/main/java/vn/edu/iuh/fit/productservice/ProductServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductService/src/main/java/vn/edu/iuh/fit/productservice/ProductServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductService/src/main/java/vn/edu/iuh/fit/productservice/controller/ProductControll.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductService/src/main/java/vn/edu/iuh/fit/productservice/controller/ProductControll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductService/src/main/java/vn/edu/iuh/fit/productservice/dao/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductService/src/main/java/vn/edu/iuh/fit/productservice/dao/ProductDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductService/src/main/java/vn/edu/iuh/fit/productservice/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductService/src/main/java/vn/edu/iuh/fit/productservice/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ProductService/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserService" beforeDir="false" afterPath="$PROJECT_DIR$/UserService" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserService/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserService/src/main/java/vn/edu/iuh/fit/userservice/controller/UserControll.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserService/src/main/java/vn/edu/iuh/fit/userservice/controller/UserControll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserService/src/main/java/vn/edu/iuh/fit/userservice/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserService/src/main/java/vn/edu/iuh/fit/userservice/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/UserService/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_COMMON_BRANCH" value="master" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ProductService" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2doDafxXKOpHtr970AhNu2pg4Y1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "test",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/BaiTap/Kientruc/13-3-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
+    "spring.configuration.checksum": "23da3735b1bf214ce5cda7e773cb9e15",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\BaiTap\Kientruc\lab6\demo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="vn.edu.iuh.fit.productservice.config" />
+      <recent name="vn.edu.iuh.fit.productservice.auth" />
+      <recent name="vn.edu.iuh.fit.jwt.entity" />
+      <recent name="vn.edu.iuh.fit.jwt.config" />
+      <recent name="vn.edu.iuh.fit.productservice.entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GatewayApplication">
+    <configuration name="generated-requests | #31" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="31" requestIdentifier="#31" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #40" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="40" requestIdentifier="#40" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #41" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="41" requestIdentifier="#41" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #42" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="42" requestIdentifier="#42" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #46" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="46" requestIdentifier="#46" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="DiscoveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Discovery" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="vn.edu.iuh.fit.discovery.DiscoveryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="vn.edu.iuh.fit.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JwtApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Jwt" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="vn.edu.iuh.fit.jwt.JwtApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="ProductService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="vn.edu.iuh.fit.productservice.ProductServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="UserService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="vn.edu.iuh.fit.userservice.UserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests | #46" />
+        <item itemvalue="HTTP Request.generated-requests | #42" />
+        <item itemvalue="HTTP Request.generated-requests | #40" />
+        <item itemvalue="HTTP Request.generated-requests | #41" />
+        <item itemvalue="HTTP Request.generated-requests | #31" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffa3a16e-d619-4ed1-b17a-955fe2383bab" name="Changes" comment="" />
+      <created>1710665604067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710665604067</updated>
+      <workItem from="1710665605062" duration="6338000" />
+      <workItem from="1710673591847" duration="592000" />
+      <workItem from="1711001304808" duration="25521000" />
+      <workItem from="1711169909993" duration="175000" />
+      <workItem from="1711185521803" duration="2955000" />
+      <workItem from="1711260074897" duration="5937000" />
+      <workItem from="1711270831126" duration="6805000" />
+    </task>
+    <task id="LOCAL-00001" summary="done">
+      <option name="closed" value="true" />
+      <created>1710671514080</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710671514081</updated>
+    </task>
+    <task id="LOCAL-00002" summary="done">
+      <option name="closed" value="true" />
+      <created>1710671520428</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710671520428</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
+  </component>
+</project>
